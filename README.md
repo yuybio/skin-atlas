@@ -6,12 +6,14 @@ This repository contains preprocessing and integration scripts for single-cell R
 
 ## 📁 Project Structure
 
+```
 ├── Figures
 │   ├── Figure1
 │   ├── Figure2
 │   ├── Figure3
 │   ├── Figure4
-│   └── Figure5
+│   ├── Figure5
+│   └── Figure6
 ├── LICENSE
 ├── preprocessing
 │   ├── 0.run_cellranger_script.sh
@@ -21,6 +23,8 @@ This repository contains preprocessing and integration scripts for single-cell R
 │   └── 4.scVI_integrated.ipynb
 ├── README.md
 └── requirements.txt
+```
+
 
 ---
 
