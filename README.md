@@ -20,11 +20,15 @@ This repository contains preprocessing and integration scripts for single-cell R
 │   ├── 1.Data_import_and_Processing.ipynb
 │   ├── 2.ambientRNA_removede_DecontX_singleSample.R
 │   ├── 3.Basic_Process_for_the_remove_ambientRNA_count.ipynb
-│   └── 4.scVI_integrated.ipynb
+│   ├── 4.scVI_integrated.ipynb
+│   ├── 5.Pseudobulk_DE_limma.R
+│   ├── 6.run_cpdb_method2.py
+│   ├── 7.celltype_ligand.R
+│   ├── 8.Super-Module
+│   └── README.md
 ├── README.md
 └── requirements.txt
 ```
-
 
 ---
 

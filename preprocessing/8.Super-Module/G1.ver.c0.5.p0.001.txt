@@ -1,0 +1,24 @@
+name	aggsize	celltype	feature
+Basal.Ker.ADGRL3	14.8374	KC	C
+Spinous.Ker.ADGRL3	9.85032	KC	C
+Female_KC_M1	14.6597	KC	M
+Female_KC_M4	7.38079	KC	M
+Male_KC_M4	8.64654	KC	M
+Female_KC_Channel_M1	5.03365	Channel	M
+Female_SGC_M1	6.02136	SGC	M
+HFC	13.4469	HFC	C
+HF-MFCs	9.69868	HFC	C
+HF-MSCs	6.57002	HFC	C
+HF-PCs	10.842	HFC	C
+ORS	10.8439	HFC	C
+Mesenchymal.Fb.COCH	4.15701	FB	C
+Mesenchymal.Fb.INHBA	10.8196	FB	C
+Female_FB_M5	13.0395	FB	M
+Mel_1	9.29578	MEL	C
+Female_MEL_M1	10.2992	MEL	M
+Lymphocyte	6.33795	Imm	C
+Regulatory T cells	7.00938	Imm	C
+helper T cells	7.4133	Imm	C
+LC	7.95491	LC	C
+LC1	3.60064	LC	C
+MigLC	5.34839	LC	C

@@ -1,0 +1,156 @@
+source	target	cor	p
+Basal.Ker.ADGRL3	Female_FB_M5	0.76428	0
+Basal.Ker.ADGRL3	Female_KC_Channel_M1	0.618783	0
+Basal.Ker.ADGRL3	Female_KC_M1	0.873883	0
+Basal.Ker.ADGRL3	Female_KC_M4	0.570242	0
+Basal.Ker.ADGRL3	Female_MEL_M1	0.649356	0
+Basal.Ker.ADGRL3	Female_SGC_M1	0.589041	3e-06
+Basal.Ker.ADGRL3	HF-MFCs	0.731775	0
+Basal.Ker.ADGRL3	HF-MSCs	0.65059	3.1e-05
+Basal.Ker.ADGRL3	HF-PCs	0.6444	2e-06
+Basal.Ker.ADGRL3	HFC	0.797004	0
+Basal.Ker.ADGRL3	LC	0.685807	0
+Basal.Ker.ADGRL3	LC1	0.504935	3.9e-05
+Basal.Ker.ADGRL3	Lymphocyte	0.534768	3e-06
+Basal.Ker.ADGRL3	Male_KC_M4	0.760575	0
+Basal.Ker.ADGRL3	Mel_1	0.698277	0
+Basal.Ker.ADGRL3	Mesenchymal.Fb.COCH	0.659743	0
+Basal.Ker.ADGRL3	Mesenchymal.Fb.INHBA	0.679277	0
+Basal.Ker.ADGRL3	MigLC	0.591514	0
+Basal.Ker.ADGRL3	ORS	0.658092	1e-06
+Basal.Ker.ADGRL3	Regulatory T cells	0.721735	0
+Basal.Ker.ADGRL3	Spinous.Ker.ADGRL3	0.795612	0
+Basal.Ker.ADGRL3	helper T cells	0.657756	0
+Female_FB_M5	Female_KC_M1	0.809452	0
+Female_FB_M5	Female_KC_M4	0.582997	0
+Female_FB_M5	Female_MEL_M1	0.831464	0
+Female_FB_M5	Female_SGC_M1	0.642333	0
+Female_FB_M5	HF-MFCs	0.693737	0
+Female_FB_M5	HF-MSCs	0.705719	3e-06
+Female_FB_M5	HF-PCs	0.85081	0
+Female_FB_M5	HFC	0.887749	0
+Female_FB_M5	LC	0.518895	4e-06
+Female_FB_M5	Lymphocyte	0.545796	1e-06
+Female_FB_M5	Male_KC_M4	0.594449	0
+Female_FB_M5	Mel_1	0.67425	0
+Female_FB_M5	Mesenchymal.Fb.COCH	0.564995	5e-06
+Female_FB_M5	Mesenchymal.Fb.INHBA	0.850854	0
+Female_FB_M5	ORS	0.683868	0
+Female_FB_M5	Regulatory T cells	0.53087	3e-06
+Female_FB_M5	Spinous.Ker.ADGRL3	0.663467	0
+Female_FB_M5	helper T cells	0.643489	0
+Female_KC_Channel_M1	Female_KC_M1	0.666983	0
+Female_KC_Channel_M1	Female_KC_M4	0.800495	0
+Female_KC_Channel_M1	HF-MFCs	0.509124	0.000187
+Female_KC_Channel_M1	LC	0.667529	0
+Female_KC_Channel_M1	LC1	0.522205	3.1e-05
+Female_KC_Channel_M1	MigLC	0.606263	0
+Female_KC_Channel_M1	Spinous.Ker.ADGRL3	0.642272	0
+Female_KC_M1	Female_KC_M4	0.789144	0
+Female_KC_M1	Female_MEL_M1	0.764959	0
+Female_KC_M1	Female_SGC_M1	0.58525	3e-06
+Female_KC_M1	HF-MFCs	0.672472	0
+Female_KC_M1	HF-MSCs	0.554796	0.000661
+Female_KC_M1	HF-PCs	0.702696	0
+Female_KC_M1	HFC	0.78863	0
+Female_KC_M1	LC	0.617059	0
+Female_KC_M1	Lymphocyte	0.629319	0
+Female_KC_M1	Male_KC_M4	0.87948	0
+Female_KC_M1	Mel_1	0.658835	0
+Female_KC_M1	Mesenchymal.Fb.COCH	0.594767	1e-06
+Female_KC_M1	Mesenchymal.Fb.INHBA	0.718139	0
+Female_KC_M1	MigLC	0.520174	6e-06
+Female_KC_M1	ORS	0.663413	1e-06
+Female_KC_M1	Regulatory T cells	0.687634	0
+Female_KC_M1	Spinous.Ker.ADGRL3	0.784604	0
+Female_KC_M1	helper T cells	0.698017	0
+Female_KC_M4	Female_MEL_M1	0.609082	0
+Female_KC_M4	HF-MFCs	0.584125	1.1e-05
+Female_KC_M4	HF-PCs	0.549576	0.000112
+Female_KC_M4	HFC	0.610669	2e-06
+Female_KC_M4	LC	0.548184	1e-06
+Female_KC_M4	Male_KC_M4	0.590376	0
+Female_KC_M4	ORS	0.55608	8.9e-05
+Female_KC_M4	Spinous.Ker.ADGRL3	0.589822	0
+Female_MEL_M1	HF-MFCs	0.564458	2.4e-05
+Female_MEL_M1	HF-MSCs	0.550879	0.000735
+Female_MEL_M1	HF-PCs	0.777936	0
+Female_MEL_M1	HFC	0.761819	0
+Female_MEL_M1	Lymphocyte	0.54047	1e-06
+Female_MEL_M1	Male_KC_M4	0.601564	0
+Female_MEL_M1	Mel_1	0.573058	0
+Female_MEL_M1	Mesenchymal.Fb.COCH	0.580809	2e-06
+Female_MEL_M1	Mesenchymal.Fb.INHBA	0.722257	0
+Female_MEL_M1	ORS	0.606029	1.3e-05
+Female_MEL_M1	Spinous.Ker.ADGRL3	0.540868	2e-06
+Female_MEL_M1	helper T cells	0.624216	0
+Female_SGC_M1	HF-MFCs	0.518178	0.000372
+Female_SGC_M1	HF-PCs	0.62173	1.9e-05
+Female_SGC_M1	HFC	0.619529	4e-06
+Female_SGC_M1	Mel_1	0.652132	0
+Female_SGC_M1	Mesenchymal.Fb.INHBA	0.56068	9e-06
+Female_SGC_M1	ORS	0.63427	1.1e-05
+Female_SGC_M1	Spinous.Ker.ADGRL3	0.598217	2e-06
+HF-MFCs	HF-MSCs	0.695611	7e-06
+HF-MFCs	HF-PCs	0.622165	8e-06
+HF-MFCs	HFC	0.852627	0
+HF-MFCs	LC	0.505791	0.000209
+HF-MFCs	Mesenchymal.Fb.INHBA	0.543957	5.4e-05
+HF-MFCs	ORS	0.526423	0.000288
+HF-MFCs	Regulatory T cells	0.541183	5.9e-05
+HF-MFCs	Spinous.Ker.ADGRL3	0.553958	5.4e-05
+HF-MFCs	helper T cells	0.583097	1.1e-05
+HF-MSCs	HF-PCs	0.655584	4.6e-05
+HF-MSCs	HFC	0.844529	0
+HF-MSCs	Mel_1	0.601172	0.00017
+HF-MSCs	Mesenchymal.Fb.INHBA	0.645897	3.7e-05
+HF-MSCs	ORS	0.665248	2.4e-05
+HF-PCs	HFC	0.910902	0
+HF-PCs	Lymphocyte	0.626384	5e-06
+HF-PCs	Male_KC_M4	0.593777	2.2e-05
+HF-PCs	Mel_1	0.618595	8e-06
+HF-PCs	Mesenchymal.Fb.INHBA	0.827148	0
+HF-PCs	ORS	0.62513	1.2e-05
+HF-PCs	Regulatory T cells	0.585306	3e-05
+HF-PCs	helper T cells	0.629904	5e-06
+HFC	LC	0.526433	6.1e-05
+HFC	Lymphocyte	0.53874	3.8e-05
+HFC	Male_KC_M4	0.598045	3e-06
+HFC	Mel_1	0.725302	0
+HFC	Mesenchymal.Fb.COCH	0.535432	8.8e-05
+HFC	Mesenchymal.Fb.INHBA	0.816969	0
+HFC	ORS	0.797985	0
+HFC	Regulatory T cells	0.592883	5e-06
+HFC	Spinous.Ker.ADGRL3	0.61805	2e-06
+HFC	helper T cells	0.623639	1e-06
+LC	LC1	0.84826	0
+LC	Mel_1	0.649553	0
+LC	MigLC	0.948202	0
+LC	ORS	0.668506	1e-06
+LC	Spinous.Ker.ADGRL3	0.770693	0
+LC1	MigLC	0.650914	0
+LC1	ORS	0.557244	0.000126
+LC1	Spinous.Ker.ADGRL3	0.517077	2.3e-05
+Lymphocyte	Male_KC_M4	0.584764	0
+Lymphocyte	Mesenchymal.Fb.INHBA	0.64218	0
+Lymphocyte	Regulatory T cells	0.742221	0
+Lymphocyte	helper T cells	0.953305	0
+Male_KC_M4	Mel_1	0.504096	1.2e-05
+Male_KC_M4	Mesenchymal.Fb.INHBA	0.557779	1e-06
+Male_KC_M4	ORS	0.53937	0.000158
+Male_KC_M4	Regulatory T cells	0.647023	0
+Male_KC_M4	Spinous.Ker.ADGRL3	0.616949	0
+Male_KC_M4	helper T cells	0.578293	0
+Mel_1	Mesenchymal.Fb.INHBA	0.64607	0
+Mel_1	MigLC	0.681168	0
+Mel_1	ORS	0.833909	0
+Mel_1	Spinous.Ker.ADGRL3	0.779364	0
+Mesenchymal.Fb.COCH	Mesenchymal.Fb.INHBA	0.674538	0
+Mesenchymal.Fb.COCH	Regulatory T cells	0.546722	1.1e-05
+Mesenchymal.Fb.INHBA	ORS	0.613088	1e-05
+Mesenchymal.Fb.INHBA	Regulatory T cells	0.656478	0
+Mesenchymal.Fb.INHBA	helper T cells	0.664256	0
+MigLC	ORS	0.593001	2.8e-05
+MigLC	Spinous.Ker.ADGRL3	0.757158	0
+ORS	Spinous.Ker.ADGRL3	0.622205	8e-06
+Regulatory T cells	helper T cells	0.757324	0
